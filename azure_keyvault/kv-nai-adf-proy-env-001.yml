@@ -1,0 +1,399 @@
+userAzureBlobStoragePickPack:
+  des: "30f84781-7586-44ad-a3b0-70146c9a4c20"
+  pre: "1508b5e1-64f6-4d5b-964e-bf7e27f0ee93"
+  pro: "4a2ff1a3-f948-406b-939d-0b3c8764e57e"
+
+userADFGOLRELEX:
+  des: "SADF3GRE"
+  pre: "SADF2GRE"
+  pro: "SADF1GRE"
+
+userADFGOLPLANESCLIENTES:
+  des: "SADF3GPL"
+  pre: "SADF2GPL"
+  pro: "SADF1GPL"
+
+userADFGOLVENTASOPEN:
+  des: "SADF3GVO"
+  pre: "SADF2GVO"
+  pro: "SADF1GVO"
+
+userADFGOLCONTROLUNITARIO:
+  des: "SADF3GCN"
+  pre: "SADF2GCN"
+  pro: "SADF1GCN"
+
+userDataFactory:
+  des: "SNW3ADF3"
+  pre: "SNW2ADF2"
+  pro: "SNW1ADF1"
+
+userADFGOLO2O:
+  des: "SADF3GO2"
+  pre: "SADF2GO2"
+  pro: "SADF1GO2"
+
+userADFGOLAEMET:
+  des: "SADF3GAE"
+  pre: "SADF2GAE"
+  pro: "SADF1GAE"
+
+userADFGOLENCHUFABLES:
+  des: "SADF3GEH"
+  pre: "SADF2GEH"
+  pro: "SADF1GEH"
+
+userADFGOLBPC:
+  des: "SADF3GBP"
+  pre: "SADF2GBP"
+  pro: "SADF1GBP"
+
+userADFGOLAGORA:
+  des: "SADF3GAG"
+  pre: "SADF2GAG"
+  pro: "SADF1GAG"
+
+userADFGOLDDA:
+  des: "SADF3GDD"
+  pre: "SADF2GDD"
+  pro: "SADF1GDD"
+
+userADFGOLOMNICANAL:
+  des: "SADF3GOM"
+  pre: "SADF2GOM"
+  pro: "SADF1GOM"
+
+userADFGOLVISTEX:
+  des: "SADF3GVI"
+  pre: "SADF2GVI"
+  pro: "SADF1GVI"
+
+userADFGOLCOP4:
+  des: "SADF3GC4"
+  pre: "SADF2GC4"
+  pro: "SADF1GC4"
+
+userADFMLCLIENTE360:
+  des: "SADF3MCL"
+  pre: "SADF2MCL"
+  pro: "SADF1MCL"
+
+userADFGOLSERVICIOSCOMUNES:
+  des: "SADF3GSC"
+  pre: "SADF2GSC"
+  pro: "SADF1GSC"
+
+userADFGOLNIVELSERVICIO:
+  des: "SADF3GNS"
+  pre: "SADF2GNS"
+  pro: "SADF1GNS"
+
+userADFGOLCMDB:
+  des: "SADF3GCD"
+  pre: "SADF2GCD"
+  pro: "SADF1GCD"
+
+userADFGOLPROMOCIONES:
+  des: "SADF3GPO"
+  pre: "SADF2GPO"
+  pro: "SADF1GPO"
+
+userADFGOLCRMCLIENTES:
+  des: "SADF3GCC"
+  pre: "SADF2GCC"
+  pro: "SADF1GCC"
+
+userADFGOLAVISOSSEGURIDAD:
+  des: "SADF3GAS"
+  pre: "SADF2GAS"
+  pro: "SADF1GAS"
+
+userADFLND:
+  des: "SADF3LPF"
+  pre: "SADF2LPF"  
+  pro: "SADF1LPF"
+
+userADFGOLFRELEX:
+  des: ""
+  pre: ""
+  pro: "SADF4GRE"
+
+userADFGOLMODELOCOSTESECICS:
+  des: "SADF3GMC"
+  pre: "SADF2GMC"
+  pro: "SADF1GMC"
+
+userADFGOLORQUESTADOR:
+  des: "SADF3GOR"
+  pre: "SADF2GOR"
+  pro: "SADF1GOR"
+
+userADFGOLDEPRECIACION:
+  des: "SADF3GDE"
+  pre: "SADF2GDE"
+  pro: "SADF1GDE"
+
+userADFGOLCDSPLANIFICACION:
+  des: "SADF3GCP"
+  pre: "SADF2GCP"
+  pro: "SADF1GCP"
+
+userADFGOLCDSALMACENB2CMG:
+  des: "SADF3GCA"
+  pre: "SADF2GCA"
+  pro: "SADF1GCA"
+
+userADFGOLPAM:
+  des: "SADF3GPA"
+  pre: "SADF2GPA"
+  pro: "SADF1GPA"
+
+passADFGOLPAM:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLCOMMUNICATIONHUB:
+  des: "SADF3GCH"
+  pre: "SADF2GCH"
+  pro: "SADF1GCH"
+
+userADFGOLGRM:
+  des: "SADF3GRM"
+  pre: "SADF2GRM"
+  pro: "SADF1GRM"
+
+userADFGOLDEMANDPLANNING:
+  des: "SADF3GDP"
+  pre: "SADF2GDP"
+  pro: "SADF1GDP"
+
+passADFGOLDEMANDPLANNING:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLALERTASDATO:
+  des: "SADF3GAL"
+  pre: "SADF2GAL"
+  pro: "SADF1GAL"
+
+passADFGOLALERTASDATO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLCDSTRANSPORTET3:
+  des: "SADF3GT3"
+  pre: "SADF2GT3"
+  pro: "SADF1GT3"
+
+passADFGOLCDSTRANSPORTET3:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLB2B:
+  des: "SADF3GB2"
+  pre: "SADF2GB2"
+  pro: "SADF1GB2"
+
+passADFGOLB2B:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLPIANELSHADOW:
+  des: "SADF3GPS"
+  pre: "SADF2GPS"
+  pro: "SADF1GPS"
+
+passADFGOLPIANELSHADOW:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLREACTEV:
+  des: "SADF3GRT"
+  pre: "SADF2GRT"
+  pro: "SADF1GRT"
+
+passADFGOLREACTEV:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFMLPERSONALIZACION:
+  des: "SADF3MPN"
+  pre: "SADF2MPN"
+  pro: "SADF1MPN"
+
+passADFMLPERSONALIZACION:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userDataFactoryGOLPM:
+  des: "SADF3GPM"
+  pre: "SADF2GPM"
+  pro: "SADF1GPM"
+
+passDataFactoryGOLPM:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLFPORTALMODA:
+  des: ""
+  pre: ""
+  pro: "SADF4GPM"
+
+passADFGOLFPORTALMODA:
+  des: ""
+  pre: ""
+  pro: "1"
+
+userADFMLFCDP:
+  des: "SADF3MFD"
+  pre: "SADF2MFD"
+  pro: "SADF1MFD"
+
+passADFMLFCDP:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLPORTALAUDIT:
+  des: "SADF3GPD"
+  pre: "SADF2GPD"
+  pro: "SADF1GPD"
+
+passADFGOLPORTALAUDIT:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLAFLUENCIA:
+  des: "SADF3GAF"
+  pre: "SADF2GAF"
+  pro: "SADF1GAF"
+  
+passADFGOLAFLUENCIA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLUKGDRIVERS:
+  des: "SADF3GUG"
+  pre: "SADF2GUG"
+  pro: "SADF1GUG"
+  
+passADFGOLUKGDRIVERS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFMLFCGPAS:
+  des: "SADF3MFG"
+  pre: "SADF2MFG"
+  pro: "SADF1MFG"
+  
+passADFMLFCGPAS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLCONTROLGASTO:
+  des: "SADF3GCG"
+  pre: "SADF2GCG"
+  pro: "SADF1GCG"
+
+passADFGOLCONTROLGASTO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLMARKETING:
+  des: "SADF3GMT"
+  pre: "SADF2GMT"
+  pro: "SADF1GMT"
+
+passADFGOLMARKETING:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLIMPACTANALYTICS:
+  des: "SADF3GIM"
+  pre: "SADF2GIM"
+  pro: "SADF1GIM"
+
+passADFGOLIMPACTANALYTICS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLWSSI:
+  des: "SADF3GWS"
+  pre: "SADF2GWS"
+  pro: "SADF1GWS"
+
+passADFGOLWSSI:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLDATASHARE:
+  des: "SADF3GDT"
+  pre: "SADF2GDT"
+  pro: "SADF1GDT"
+
+passADFGOLDATASHARE:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLPLANOGRAMA:
+  des: "SADF3GPN"
+  pre: "SADF2GPN"
+  pro: "SADF1GPN"
+
+passADFGOLPLANOGRAMA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFGOLECICS:
+  des: "SADF3GCS"
+  pre: "SADF2GCS"
+  pro: "SADF1GCS"
+
+passADFGOLECICS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userDatafactoryGOLPAC:
+  des: "SADF3GAI"
+  pre: "SADF2GAI"
+  pro: "SADF1GAI"
+
+passDatafactoryGOLPAC:
+  des: "1"
+  pre: "1"
+  pro: "1"
+  
+passPORTALAuthMongo:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userDatafactoryMLMotorDCH:
+  des: "SADF3MDC"
+  pre: "SADF2MDC"
+  pro: "SADF1MDC"
+
+passDatafactoryMLMotorDCH:
+  des: "1"
+  pre: "1"
+  pro: "1"

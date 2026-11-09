@@ -1,0 +1,14 @@
+userdb2host1:
+  des: "NIEDS902"
+  pre: "NIEJ0005"
+  pro: "NIEDS040"
+
+userdb2:
+  des: "NIEPT008"
+  pre: ""
+  pro: ""
+
+userdb2host2:
+  des: ""
+  pre: "NIEP9058"
+  pro: "NIETW391"

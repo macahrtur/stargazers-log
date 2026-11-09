@@ -1,0 +1,161 @@
+userGenesysDCH:
+  des: "41c44d8e-4b44-46de-abb4-f1f2a65a4761"
+  pre: "41c44d8e-4b44-46de-abb4-f1f2a65a4761"
+  pro: "41c44d8e-4b44-46de-abb4-f1f2a65a4761"
+
+userSalesforceDCH:
+  des: "dataeci@elcorteingles.es.nft"
+  pre: "dataeci@elcorteingles.es.nft"
+  pro: "dataeci@elcorteingles.es"
+
+userSalesforceClientDCH:
+  des: "3MVG9zOb8H6wKLFDWc.bJ.kQJM8JkyJvjh3VlpTmCaq8xLSfEDg.hXnIEmYfoiApyZZqO0nlMbkxFFGD80D2T"
+  pre: "3MVG9zOb8H6wKLFDWc.bJ.kQJM8JkyJvjh3VlpTmCaq8xLSfEDg.hXnIEmYfoiApyZZqO0nlMbkxFFGD80D2T"
+  pro: "3MVG9TSaZ8P6zP1rDZWMjVgxACqGZVCwLNa3e_hGlA4M6RKPKO5OBXaRyiuyM.or.HZnPeI6YzgTTRmEwB4GY"
+
+userOKTicket:
+  des: "apiBI@elcorteingles.es"
+  pre: "apiBI@elcorteingles.es"
+  pro: "apiBI@elcorteingles.es"
+
+userOKTicketSecret:
+  des: "5"
+  pre: "5"
+  pro: "5"
+
+userECICS:
+  des: "bHzBtGoWtg"
+  pre: ""
+  pro: ""
+
+clientIDResiduoCero:
+  des: "c99083ea-09fc-4930-8312-0cff1f8b8013"
+  pre: "c99083ea-09fc-4930-8312-0cff1f8b8013"
+  pro: "717b3678-03b9-44a4-a1f5-b063d0380db2"
+
+scopeResiduoCero:
+  des: "https://residuoceroeciuat.crm4.dynamics.com/.default"
+  pre: "https://residuoceroeciuat.crm4.dynamics.com/.default"
+  pro: "https://residuoceroecipro.crm4.dynamics.com/.default"
+
+userDeliverea:
+  des: "CARRIES_SERVICE"
+  pre: "CARRIES_SERVICE"
+  pro: "CARRIES_SERVICE"
+
+userMetaDDA:
+  des: "8367708173300951"
+  pre: "8367708173300951"
+  pro: "8367708173300951"
+
+userTokenMetaDDA:
+  des: "EAAZAGS0uLVw0BO1byjQ8cWOGTjWCRceN70fP3fXeNX7VwWwCuzGiyESJPOwzNZBThOSXu7wh4ZA7Ss9wslmUmTStsZC04mVr2sCn37ZB8Vk1vkwEGDSt8ShPI3P4mlmZBm9t0Qi7VfZBIME12atLozvy8gg8edEdzAgBFZAI5OBBLo1BcdBb8Psy4DlkSut3eSYsUQZDZD"
+  pre: "EAAZAGS0uLVw0BO1byjQ8cWOGTjWCRceN70fP3fXeNX7VwWwCuzGiyESJPOwzNZBThOSXu7wh4ZA7Ss9wslmUmTStsZC04mVr2sCn37ZB8Vk1vkwEGDSt8ShPI3P4mlmZBm9t0Qi7VfZBIME12atLozvy8gg8edEdzAgBFZAI5OBBLo1BcdBb8Psy4DlkSut3eSYsUQZDZD"
+  pro: "EAAZAGS0uLVw0BO1byjQ8cWOGTjWCRceN70fP3fXeNX7VwWwCuzGiyESJPOwzNZBThOSXu7wh4ZA7Ss9wslmUmTStsZC04mVr2sCn37ZB8Vk1vkwEGDSt8ShPI3P4mlmZBm9t0Qi7VfZBIME12atLozvy8gg8edEdzAgBFZAI5OBBLo1BcdBb8Psy4DlkSut3eSYsUQZDZD"
+
+userJira:
+  des: "consulta-kpis"
+  pre: "consulta-kpis"
+  pro: "consulta-kpis"
+
+userCM360id:
+  des: "proyecto-dda-449116"
+  pre: "proyecto-dda-449116"
+  pro: "proyecto-dda-449116"
+
+userCM360email:
+  des: "cm360-dda@proyecto-dda-449116.iam.gserviceaccount.com"
+  pre: "cm360-dda@proyecto-dda-449116.iam.gserviceaccount.com"
+  pro: "cm360-dda@proyecto-dda-449116.iam.gserviceaccount.com"
+
+userCM360:
+  des: "118175383819358603684"
+  pre: "118175383819358603684"
+  pro: "118175383819358603684"
+
+userMongoAtlas:
+  des: "wcuobapp"
+  pre: "wcuobapp"
+  pro: "wcuobapp"
+
+userWorkiva:
+  des: "abd90ec9-056c-4ec2-99a3-511983eec7a0"
+  pre: "abd90ec9-056c-4ec2-99a3-511983eec7a0"
+  pro: "04d11755-b673-4f94-b5ac-cafe8fd1c0e9"
+
+clientIdCostesCloud:
+  des: "e7b95031-0e47-4b4b-8438-ec6b0df39039"
+  pre: "e7b95031-0e47-4b4b-8438-ec6b0df39039"
+  pro: "e7b95031-0e47-4b4b-8438-ec6b0df39039"
+  
+userSOTIClient:
+  des: "a460dc53b67a47fb9083496330607bd5"
+  pre: "a460dc53b67a47fb9083496330607bd5"
+  pro: "46700e86fc454c5fa03c0ea9a423e772"
+  
+userSOTI:
+  des: "TEMP_API4"
+  pre: "TEMP_API4"
+  pro: "TEMP_API4"
+
+userIWSCMDB:
+  des: "NIETWS01"
+  pre: "NIETWS01"
+  pro: "NIETWS01"
+
+passIWSCMDB:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userBMCSwitches: 
+  des: "bmc_user"
+  pre: ""
+  pro: ""
+
+userSPLUNK:
+  des: "aida_eci"
+  pre: "aida_eci"
+  pro: "aida_eci"
+
+userBMCAPs:
+  des: "api_antenas@elcorteingles.es"
+  pre: "api_antenas@elcorteingles.es"
+  pro: "api_antenas@elcorteingles.es"
+
+userAIFpp:
+  des: "ca55c220-ec38-4532-974c-1ab3bea5fe50"
+  pre: "ca55c220-ec38-4532-974c-1ab3bea5fe50"
+  pro: "ca55c220-ec38-4532-974c-1ab3bea5fe50"
+
+
+userMongoAtlasInfraprod:
+  des: "odyuebgh"
+  pre: "odyuebgh"
+  pro: "odyuebgh"
+  
+
+userAPIMRM:
+  des: ""
+  pre: "afa764c2-3762-4493-9f55-0e057a01bb12"
+  pro: "afa764c2-3762-4493-9f55-0e057a01bb12"
+
+userSOTI2Client:
+  des: ""
+  pre: ""
+  pro: "e22797f2723d4067962f3eb7264f7d51"
+  
+userSOTI2:
+  des: ""
+  pre: ""
+  pro: "TEMP_API1"
+
+userDIGITEK:
+  des: "fea13f99-5728-4c27-a8de-ed01f8fe489f"
+  pre: "fea13f99-5728-4c27-a8de-ed01f8fe489f"
+  pro: "fea13f99-5728-4c27-a8de-ed01f8fe489f"
+
+userInfoblox:
+  des: "S0000171"
+  pre: "S0000171"
+  pro: "S0000171"

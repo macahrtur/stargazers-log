@@ -1,0 +1,1422 @@
+# Usuarios de Proyectos Gold y Dominios Silver
+userGithubGOLALERTASSANITARIAS:
+  des: "SGTH3GAA"
+  pre: "SGTH2GAA"
+  pro: "SGTH1GAA"
+
+passGithubGOLALERTASSANITARIAS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLADMIRA:
+  des: "SGTH3GAD"
+  pre: "SGTH2GAD"
+  pro: "SGTH1GAD"
+
+passGithubGOLADMIRA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLAEMET:
+  des: "SGTH3GAE"
+  pre: "SGTH2GAE"
+  pro: "SGTH1GAE"
+
+passGithubGOLAEMET:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLAFLUENCIA:
+  des: "SGTH3GAF"
+  pre: "SGTH2GAF"
+  pro: "SGTH1GAF"
+
+passGithubGOLAFLUENCIA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLAGORA:
+  des: "SGTH3GAG"
+  pre: "SGTH2GAG"
+  pro: "SGTH1GAG"
+
+passGithubGOLAGORA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLAI:
+  des: "SGTH3GIA"
+  pre: "SGTH2GIA"
+  pro: "SGTH1GIA"
+
+passGithubGOLAI:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLAUDITORIAINTERNA:
+  des: "SGTH3GAI"
+  pre: "SGTH2GAI"
+  pro: "SGTH1GAI"
+
+passGithubGOLAUDITORIAINTERNA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLALERTASDATO:
+  des: "SGTH3GAL"
+  pre: "SGTH2GAL"
+  pro: "SGTH1GAL"
+
+passGithubGOLALERTASDATO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLAVISOSSEGURIDAD:
+  des: "SGTH3GAS"
+  pre: "SGTH2GAS"
+  pro: "SGTH1GAS"
+
+passGithubGOLAVISOSSEGURIDAD:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLB2B:
+  des: "SGTH3GB2"
+  pre: "SGTH2GB2"
+  pro: "SGTH1GB2"
+
+passGithubGOLB2B:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLBPC:
+  des: "SGTH3GBP"
+  pre: "SGTH2GBP"
+  pro: "SGTH1GBP"
+
+passGithubGOLBPC:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCADENASUMINISTRO:
+  des: "SGTH3GCS"
+  pre: "SGTH2GCS"
+  pro: "SGTH1GCS"
+
+passGithubGOLCADENASUMINISTRO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCADENASUMINISTROAUTOCONSUMO:
+  des: "SGTH3GCA"
+  pre: "SGTH2GCA"
+  pro: "SGTH1GCA"
+
+passGithubGOLCADENASUMINISTROAUTOCONSUMO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCADUCIDADES:
+  des: "SGTH3GCI"
+  pre: "SGTH2GCI"
+  pro: "SGTH1GCI"
+
+passGithubGOLCADUCIDADES:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCDSALMACENB2CMG:
+  des: "SGTH3GC2"
+  pre: "SGTH2GC2"
+  pro: "SGTH1GC2"
+
+passGithubGOLCDSALMACENB2CMG:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCDSPLANIFICACION:
+  des: "SGTH3GCP"
+  pre: "SGTH2GCP"
+  pro: "SGTH1GCP"
+
+passGithubGOLCDSPLANIFICACION:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLCDSRRHH:
+  des: "SGTH3GCR"
+  pre: "SGTH2GCR"
+  pro: "SGTH1GCR"
+
+userGithubGOLCDSTRANSPORTET3:
+  des: "SGTH3GT3"
+  pre: "SGTH2GT3"
+  pro: "SGTH1GT3"
+
+passGithubGOLCDSTRANSPORTET3:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCDSFINANAUTOCONSUMO:
+  des: "SGTH3GCF"
+  pre: "SGTH2GCF"
+  pro: "SGTH1GCF"
+
+passGithubGOLCDSFINANAUTOCONSUMO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCENTRALMERCHAUTOCONSUMO:
+  des: "SGTH3GME"
+  pre: "SGTH2GME"
+  pro: "SGTH1GME"
+
+passGithubGOLCENTRALMERCHAUTOCONSUMO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCMDB:
+  des: "SGTH3GCD"
+  pre: "SGTH2GCD"
+  pro: "SGTH1GCD"
+
+passGithubGOLCMDB:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCOBERTURAEXTERNA:
+  des: "SGTH3GCE"
+  pre: "SGTH2GCE"
+  pro: "SGTH1GCE"
+
+passGithubGOLCOBERTURAEXTERNA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCOMMUNICATIONHUB:
+  des: "SGTH3GCH"
+  pre: "SGTH2GCH"
+  pro: "SGTH1GCH"
+
+passGithubGOLCOMMUNICATIONHUB:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCOMPOSTURAS:
+  des: "SGTH3GCM"
+  pre: "SGTH2GCM"
+  pro: "SGTH1GCM"
+
+passGithubGOLCOMPOSTURAS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCONSTRUCCIONES:
+  des: "SGTH3GCO"
+  pre: "SGTH2GCO"
+  pro: "SGTH1GCO"
+
+passGithubGOLCONSTRUCCIONES:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCONTABILIDADSAP:
+  des: "SGTH3GSA"
+  pre: "SGTH2GSA"
+  pro: "SGTH1GSA"
+
+passGithubGOLCONTABILIDADSAP:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCONTROLUNITARIO:
+  des: "SGTH3GCU"
+  pre: "SGTH2GCU"
+  pro: "SGTH1GCU"
+
+passGithubGOLCONTROLUNITARIO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCOP4:
+  des: "SGTH3GC4"
+  pre: "SGTH2GC4"
+  pro: "SGTH1GC4"
+
+passGithubGOLCOP4:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCRMCLIENTES:
+  des: "SGTH3GCC"
+  pre: "SGTH2GCC"
+  pro: "SGTH1GCC"
+
+passGithubGOLCRMCLIENTES:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLDATAGOVERNANCE:
+  des: "SGTH3GDG"
+  pre: "SGTH2GDG"
+  pro: "SGTH1GDG"
+
+passGithubGOLDATAGOVERNANCE:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLDCH:
+  des: "SGTH3GDC"
+  pre: "SGTH2GDC"
+  pro: "SGTH1GDC"
+
+passGithubGOLDCH:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLDDA:
+  des: "SGTH3GDA"
+  pre: "SGTH2GDA"
+  pro: "SGTH1GDA"
+
+passGithubGOLDDA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLDEMANDPLANNING:
+  des: "SGTH3GDP"
+  pre: "SGTH2GDP"
+  pro: "SGTH1GDP"
+
+passGithubGOLDEMANDPLANNING:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLDEPRECIACION:
+  des: "SGTH3GDE"
+  pre: "SGTH2GDE"
+  pro: "SGTH1GDE"
+
+passGithubGOLDEPRECIACION:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLECIECONTABILIDADGESTION:
+  des: "SGTH3GEC"
+  pre: "SGTH2GEC"
+  pro: "SGTH1GEC"
+
+passGithubGOLECIECONTABILIDADGESTION:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLENGINEERING:
+  des: "SGTH3GEN"
+  pre: "SGTH2GEN"
+  pro: "SGTH1GEN"
+
+userGithubGOLFINOPS:
+  des: "SGTH3GFN"
+  pre: "SGTH2GFN"
+  pro: "SGTH1GFN"
+
+passGithubGOLFINOPS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLFIREFLYINFORMACIONAL:
+  des: "SGTH3GFI"
+  pre: "SGTH2GFI"
+  pro: "SGTH1GFI"
+
+passGithubGOLFIREFLYINFORMACIONAL:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLFIREFLYOPERACIONAL:
+  des: "SGTH3GFO"
+  pre: "SGTH2GFO"
+  pro: "SGTH1GFO"
+
+passGithubGOLFIREFLYOPERACIONAL:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLGESTORTURNOS:
+  des: "SGTH3GGT"
+  pre: "SGTH2GGT"
+  pro: "SGTH1GGT"
+
+passGithubGOLGESTORTURNOS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLGRANCONSUMO:
+  des: "SGTH3GGC"
+  pre: "SGTH2GGC"
+  pro: "SGTH1GGC"
+
+passGithubGOLGRANCONSUMO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLINVENTARIO:
+  des: "SGTH3GIN"
+  pre: "SGTH2GIN"
+  pro: "SGTH1GIN"
+
+passGithubGOLINVENTARIO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLLABORATORIOCALIDAD:
+  des: "SGTH3GLC"
+  pre: "SGTH2GLC"
+  pro: "SGTH1GLC"
+
+passGithubGOLLABORATORIOCALIDAD:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLLOTESPERSONAL:
+  des: "SGTH3GLP"
+  pre: "SGTH2GLP"
+  pro: "SGTH1GLP"
+
+passGithubGOLLOTESPERSONAL:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLMERCANCIAS:
+  des: "SGTH3GMR"
+  pre: "SGTH2GMR"
+  pro: "SGTH1GMR"
+
+passGithubGOLMERCANCIAS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLMODELOCOSTESECICS:
+  des: "SGTH3GMC"
+  pre: "SGTH2GMC"
+  pro: "SGTH1GMC"
+
+passGithubGOLMODELOCOSTESECICS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLMPOS:
+  des: "SGTH3GMP"
+  pre: "SGTH2GMP"
+  pro: "SGTH1GMP"
+
+passGithubGOLMPOS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLNIVELSERVICIO:
+  des: "SGTH3GNS"
+  pre: "SGTH2GNS"
+  pro: "SGTH1GNS"
+
+passGithubGOLNIVELSERVICIO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLNOMINAS:
+  des: "SGTH3GNO"
+  pre: "SGTH2GNO"
+  pro: "SGTH1GNO"
+
+passGithubGOLNOMINAS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLO2O:
+  des: "SGTH3GO2"
+  pre: "SGTH2GO2"
+  pro: "SGTH1GO2"
+
+passGithubGOLO2O:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLOKTICKET:
+  des: "SGTH3GOK"
+  pre: "SGTH2GOK"
+  pro: "SGTH1GOK"
+
+passGithubGOLOKTICKET:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLOMNICANAL:
+  des: "SGTH3GOM"
+  pre: "SGTH2GOM"
+  pro: "SGTH1GOM"
+
+passGithubGOLOMNICANAL:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLORQUESTADOR:
+  des: "SGTH3GOR"
+  pre: "SGTH2GOR"
+  pro: "SGTH1GOR"
+
+passGithubGOLORQUESTADOR:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLPAM:
+  des: "SGTH3GPA"
+  pre: "SGTH2GPA"
+  pro: "SGTH1GPA"
+
+passGithubGOLPAM:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLPARKING:
+  des: "SGTH3GPK"
+  pre: "SGTH2GPK"
+  pro: "SGTH1GPK"
+
+passGithubGOLPARKING:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLPIANELSHADOW:
+  des: "SGTH3GPS"
+  pre: "SGTH2GPS"
+  pro: "SGTH1GPS"
+
+passGithubGOLPIANELSHADOW:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLPLATAFORMA:
+  des: "SGTH3GPF"
+  pre: "SGTH2GPF"
+  pro: "SGTH1GPF"
+
+userGithubGOLPLANESCLIENTES:
+  des: "SGTH3GPL"
+  pre: "SGTH2GPL"
+  pro: "SGTH1GPL"
+
+passGithubGOLPLANESCLIENTES:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLPORTALAUDIT:
+  des: "SGTH3GPD"
+  pre: "SGTH2GPD"
+  pro: "SGTH1GPD"
+
+passGithubGOLPORTALAUDIT:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLPORTALMODA:
+  des: "SGTH3GPM"
+  pre: "SGTH2GPM"
+  pro: "SGTH1GPM"
+
+passGithubGOLPORTALMODA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLFPORTALMODA:
+  des: ""
+  pre: ""
+  pro: "SGTH4GPM"
+
+passGithubGOLFPORTALMODA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLPORTALMODAPEDIDOS:
+  des: "SGTH3GPE"
+  pre: "SGTH2GPE"
+  pro: "SGTH1GPE"
+
+passGithubGOLPORTALMODAPEDIDOS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLPRODUCTIVIDADPROVEEDORES:
+  des: "SGTH3GPP"
+  pre: "SGTH2GPP"
+  pro: "SGTH1GPP"
+
+passGithubGOLPRODUCTIVIDADPROVEEDORES:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLPROMOCIONES:
+  des: "SGTH3GPR"
+  pre: "SGTH2GPR"
+  pro: "SGTH1GPR"
+
+passGithubGOLPROMOCIONES:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLPSIFINANZASLOGISTICA:
+  des: "SGTH3GFL"
+  pre: "SGTH2GFL"
+  pro: "SGTH1GFL"
+
+passGithubGOLPSIFINANZASLOGISTICA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLPSIFINANZASPROVEEDORES:
+  des: "SGTH3GFP"
+  pre: "SGTH2GFP"
+  pro: "SGTH1GFP"
+
+passGithubGOLPSIFINANZASPROVEEDORES:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLRELEX:
+  des: "SGTH3GRX"
+  pre: "SGTH2GRX"
+  pro: "SGTH1GRX"
+
+passGithubGOLRELEX:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLFRELEX:
+  des: ""
+  pre: ""
+  pro: "SGTH4GRX"
+
+passGithubGOLFRELEX:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLRENTINGPC:
+  des: "SGTH3GPC"
+  pre: "SGTH2GPC"
+  pro: "SGTH1GPC"
+
+passGithubGOLRENTINGPC:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLRESIDUOCERO:
+  des: "SGTH3GRC"
+  pre: "SGTH2GRC"
+  pro: "SGTH1GRC"
+
+passGithubGOLRESIDUOCERO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLRETAILMEDIA:
+  des: "SGTH3GRM"
+  pre: "SGTH2GRM"
+  pro: "SGTH1GRM"
+
+passGithubGOLRETAILMEDIA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLRPA:
+  des: "SGTH3GRA"
+  pre: "SGTH2GRA"
+  pro: "SGTH1GRA"
+
+passGithubGOLRPA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLRPACUADRES:
+  des: "SGTH3GRP"
+  pre: "SGTH2GRP"
+  pro: "SGTH1GRP"
+
+passGithubGOLRPACUADRES:
+  des: "1"
+  pre: "1"
+  pro: "1"  
+
+userGithubGOLSERVICIOSCOMUNES:
+  des: "SGTH3GSC"
+  pre: "SGTH2GSC"
+  pro: "SGTH1GSC"
+
+passGithubGOLSERVICIOSCOMUNES:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLSIRTRELEVANCIA:
+  des: "SGTH3GSR"
+  pre: "SGTH2GSR"
+  pro: "SGTH1GSR"
+
+passGithubGOLSIRTRELEVANCIA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLSIVHOGAR:
+  des: "SGTH3GSH"
+  pre: "SGTH2GSH"
+  pro: "SGTH1GSH"
+
+passGithubGOLSIVHOGAR:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLTARJETAPROMOCION:
+  des: "SGTH3GTP"
+  pre: "SGTH2GTP"
+  pro: "SGTH1GTP"
+
+passGithubGOLTARJETAPROMOCION:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLTARJETAREGALO:
+  des: "SGTH3GTR"
+  pre: "SGTH2GTR"
+  pro: "SGTH1GTR"
+
+passGithubGOLTARJETAREGALO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLVENTA:
+  des: "SGTH3GVN"
+  pre: "SGTH2GVN"
+  pro: "SGTH1GVN"
+
+passGithubGOLVENTA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLVENTAS:
+  des: "SGTH3GVN"
+  pre: "SGTH2GVN"
+  pro: "SGTH1GVN"
+
+passGithubGOLVENTAS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLVENTASOPEN:
+  des: "SGTH3GVO"
+  pre: "SGTH2GVO"
+  pro: "SGTH1GVO"
+
+passGithubGOLVENTASOPEN:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLVISTEX:
+  des: "SGTH3GVX"
+  pre: "SGTH2GVX"
+  pro: "SGTH1GVX"
+
+passGithubGOLVISTEX:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLRRHH:
+  des: "SGTH3GRH"
+  pre: "SGTH2GRH"
+  pro: "SGTH1GRH"
+
+passGithubGOLRRHH:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLMANTENIMIENTOARQUITECTURAINFORMACIONAL:
+  des: "SGTH3GMA"
+  pre: "SGTH2GMA"
+  pro: "SGTH1GMA"
+
+passGithubGOLMANTENIMIENTOARQUITECTURAINFORMACIONAL:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLESTADOMERCANCIA:
+  des: "SGTH3GEM"
+  pre: "SGTH2GEM"
+  pro: "SGTH1GEM"
+
+passGitHubGOLESTADOMERCANCIA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLCHATBOTCOMPRAS:
+  des: "SGTH3GCB"
+  pre: "SGTH2GCB"
+  pro: "SGTH1GCB"
+
+passGitHubGOLCHATBOTCOMPRAS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLDMPEDIDOS:
+  des: "SGTH3GDM"
+  pre: "SGTH2GDM"
+  pro: "SGTH1GDM"
+
+passGitHubGOLDMPEDIDOS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLREACTEV:
+  des: "SGTH3GRT"
+  pre: "SGTH2GRT"
+  pro: "SGTH1GRT"
+
+passGitHubGOLREACTEV:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLMINERIA:
+  des: "SGTH3GMN"
+  pre: "SGTH2GMN"
+  pro: "SGTH1GMN"
+
+passGithubGOLMINERIA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCONTROLGASTO:
+  des: "SGTH3GCG"
+  pre: "SGTH2GCG"
+  pro: "SGTH1GCG"
+
+passGithubGOLCONTROLGASTO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLPROVEEDOR360:
+  des: "SGTH3GP3"
+  pre: "SGTH2GP3"
+  pro: "SGTH1GP3"
+
+passGithubGOLPROVEEDOR360:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLPGP:
+  des: "SGTH3GPG"
+  pre: "SGTH2GPG"
+  pro: "SGTH1GPG"
+
+passGithubGOLPGP:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLTIENDAFISICAAUTOCONSUMO:
+  des: "SGTH3GTF"
+  pre: "SGTH2GTF"
+  pro: "SGTH1GTF"
+
+passGithubGOLTIENDAFISICAAUTOCONSUMO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLIMPACTANALYTICS:
+  des: "SGTH3GIM"
+  pre: "SGTH2GIM"
+  pro: "SGTH1GIM"
+
+passGithubGOLIMPACTANALYTICS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLMKTCONTENIDOS:
+  des: "SGTH3GMK"
+  pre: "SGTH2GMK"
+  pro: "SGTH1GMK"
+
+passGithubGOLMKTCONTENIDOS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCONTROLGESTIONAUTOCONSUMO:
+  des: "SGTH3GGA"
+  pre: "SGTH2GGA"
+  pro: "SGTH1GGA"
+
+passGithubGOLCONTROLGESTIONAUTOCONSUMO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLCDSFOODAUTOCONSUMO:
+  des: "SGTH3GEI"
+  pre: "SGTH2GEI"
+  pro: "SGTH1GEI"
+
+passGitHubGOLCDSFOODAUTOCONSUMO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLCDSNONFOODAUTOCONSUMO:
+  des: "SGTH3GEI"
+  pre: "SGTH2GEI"
+  pro: "SGTH1GEI"
+
+passGitHubGOLCDSNONFOODAUTOCONSUMO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLCDSTRANSPORTEAUTOCONSUMO:
+  des: "SGTH3GEI"
+  pre: "SGTH2GEI"
+  pro: "SGTH1GEI"
+
+passGitHubGOLCDSTRANSPORTEAUTOCONSUMO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLCAJA:
+  des: "SGTH3GCJ"
+  pre: "SGTH2GCJ"
+  pro: "SGTH1GCJ"
+
+passGitHubGOLCAJA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLCADENASUMINISTROAUTOCONSUMOCDS:
+  des: "SGTH3GDS"
+  pre: "SGTH2GDS"
+  pro: "SGTH1GDS"
+
+passGitHubGOLCADENASUMINISTROAUTOCONSUMOCDS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLUKGDRIVERS:
+  des: "SGTH3GUG"
+  pre: "SGTH2GUG"
+  pro: "SGTH1GUG"
+
+passGitHubGOLUKGDRIVERS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLFIDELIZACION:
+  des: "SGTH3GFA"
+  pre: "SGTH2GFA"
+  pro: "SGTH1GFA"
+
+passGitHubGOLFIDELIZACION:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLCDMMARKETING:
+  des: "SGTH3GMT"
+  pre: "SGTH2GMT"
+  pro: "SGTH1GMT"
+
+passGitHubGOLCDMMARKETING:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubGOLSOSTENIBILIDAD:
+  des: "SGTH3GSO"
+  pre: "SGTH2GSO"
+  pro: "SGTH1GSO"
+
+passGitHubGOLSOSTENIBILIDAD:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLPLANOGRAMA:
+  des: "SGTH3GPN"
+  pre: "SGTH2GPN"
+  pro: "SGTH1GPN"
+
+passGithubGOLPLANOGRAMA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLPLATAFORMAIA:
+  des: "SGTH3GPI"
+  pre: "SGTH2GPI"
+  pro: "SGTH1GPI"
+
+passGithubGOLPLATAFORMAIA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLCDSDMGESTADMINSTOCK:
+  des: "SGTH3GST"
+  pre: "SGTH2GST"
+  pro: "SGTH1GST"
+
+passGithubGOLCDSDMGESTADMINSTOCK:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLMARKETINGAUTOCONSUMO:
+  des: "SGTH3GMD"
+  pre: "SGTH2GMD"
+  pro: "SGTH1GMD"
+
+passGithubGOLMARKETINGAUTOCONSUMO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLINTERNACIONAL:
+  des: "SGTH3GIT"
+  pre: "SGTH2GIT"
+  pro: "SGTH1GIT"
+  
+passGithubGOLINTERNACIONAL:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLRRHHTECNOLOGIAAUTOCONSUMO:
+  des: "SGTH3GHT"
+  pre: "SGTH2GHT"
+  pro: "SGTH1GHT"
+
+passGithubGOLRRHHTECNOLOGIAAUTOCONSUMO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLSUPERPLANMY:
+  des: "SGTH3GSP"
+  pre: "SGTH2GSP"
+  pro: "SGTH1GSP"
+
+passGithubGOLSUPERPLANMY:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+# Usuarios de Proyectos ML
+userGitHubMLFCDM:
+  des: "SGTH3FCM"
+  pre: "SGTH2FCM"
+  pro: "SGTH1FCM"
+
+userGitHubMLFFCDM:
+  des: ""
+  pre: ""
+  pro: "SGTH4FCM"
+
+userGitHubMLFCENR:
+  des: "SGTH3MFC"
+  pre: "SGTH2MFC"
+  pro: "SGTH1MFC"
+
+userGitHubMLFFCENR:
+  des: ""
+  pre: ""
+  pro: "SGTH4MFC"
+
+userGitHubMLCLIENTE360:
+  des: "SGTH3MCL"
+  pre: "SGTH2MCL"
+  pro: "SGTH1MCL"
+
+userGitHubMLFCLIENTE360:
+  des: ""
+  pre: ""
+  pro: "SGTH4MCL"
+
+userGitHubMLPERSONALIZACION:
+  des: "SGTH3MPN"
+  pre: "SGTH2MPN"
+  pro: "SGTH1MPN"
+
+userGitHubMLFPERSONALIZACION:
+  des: ""
+  pre: ""
+  pro: "SGTH4MPN"
+
+userGitHubMLFCDP:
+  des: "SGTH3MFD"
+  pre: "SGTH2MFD"
+  pro: "SGTH1MFD"
+
+passGitHubMLFCDP:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubMLFFCDP:
+  des: ""
+  pre: ""
+  pro: "SGTH4MFD"
+
+passGithubMLFFCDP:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubMLFCBASE:
+  des: "SGTH3MFB"
+  pre: "SGTH2MFB"
+  pro: "SGTH1MFB"
+
+passGitHubMLFCBASE:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubMLFFCBASE:
+  des: ""
+  pre: ""
+  pro: "SGTH4MFB"
+
+passGitHubMLFFCBASE:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubMLFCGPAS:
+  des: "SGTH3MFG"
+  pre: "SGTH2MFG"
+  pro: "SGTH1MFG"
+
+passGitHubMLFCGPAS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubMLFFCGPAS:
+  des: ""
+  pre: ""
+  pro: "SGTH4MFG"
+
+passGitHubMLFFCGPAS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubMLPUBLIWEB:
+  des: "SGTH3MFP"
+  pre: "SGTH2MFP"
+  pro: "SGTH1MFP"
+
+passGitHubMLPUBLIWEB:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubMLFPUBLIWEB:
+  des: ""
+  pre: ""
+  pro: "SGTH4MFP"
+
+passGitHubMLFPUBLIWEB:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubMLMOTORDCH:
+  des: "SGTH3MDC"
+  pre: "SGTH2MDC"
+  pro: "SGTH1MDC"
+
+passGitHubMLMOTORDCH:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubMLFMOTORDCH:
+  des: ""
+  pre: ""
+  pro: "SGTH4MDC"
+
+passGitHubMLFMOTORDCH:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubMLFCCOM:
+  des: "SGTH3MCO"
+  pre: "SGTH2MCO"
+  pro: "SGTH1MCO"
+
+passGitHubMLFCCOM:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubMLFFCCOM:
+  des: ""
+  pre: ""
+  pro: "SGTH4MCO"
+
+passGitHubMLFFCCOM:
+  des: ""
+  pre: ""
+  pro: "1"
+
+userGithubMLORQVOC:
+  des: "SGTH3MOV"
+  pre: "SGTH2MOV"
+  pro: "SGTH1MOV"
+
+passGitHubMLORQVOC:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubMLFORQVOC:
+  des: ""
+  pre: ""
+  pro: "SGTH4MOV"
+
+passGitHubMLFORQVOC:
+  des: ""
+  pre: ""
+  pro: "1"
+
+userGithubMLAUDITORIAINTERNA:
+  des: "SGTH3MAI"
+  pre: "SGTH2MAI"
+  pro: "SGTH1MAI"
+
+passGitHubMLAUDITORIAINTERNA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubMLFAUDITORIAINTERNA:
+  des: ""
+  pre: ""
+  pro: "SGTH4MAI"
+
+passGitHubMLFAUDITORIAINTERNA:
+  des: ""
+  pre: ""
+  pro: "1"
+
+userGitHubMLPROGBENEFICIOS:
+ des: "SGTH3MPB"
+ pre: "SGTH2MPB"
+ pro: "SGTH1MPB"
+ 
+passGitHubMLPROGBENEFICIOS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubMLDESCMARCAS:
+ des: "SGTH3MDM"
+ pre: "SGTH2MDM"
+ pro: "SGTH1MDM"
+ 
+passGitHubMLDESCMARCAS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+# Usuarios IaC, Seguridad
+userGitHubArquetipos:
+  des: "SGTH3ARQ"
+  pre: "SGTH2ARQ"
+  pro: "SGTH1ARQ"
+
+userGitHubDespliegues:
+  des: "SGTH3DPG"
+  pre: "SGTH2DPG"
+  pro: "SGTH1DPG"
+
+userGithubLND:
+  des: "SGTH3LND"
+  pre: "SGTH2LND"
+  pro: "SGTH1LND"
+
+passGithubLND:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGitHubBronze:
+  des: "SGTH3BRO"
+  pre: "SGTH2BRO"
+  pro: "SGTH1BRO"
+
+userGithubBRO:
+  des: "SGTH3BRO"
+  pre: "SGTH2BRO"
+  pro: "SGTH1BRO"
+
+passGithubBRO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubSIL:
+  des: "SGTH3SIL"
+  pre: "SGTH2SIL"
+  pro: "SGTH1SIL"
+
+passGithubSIL:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubPLATAFORMA:
+  des: "SGTH3PLA"
+  pre: "SGTH2PLA"
+  pro: "SGTH1PLA"
+
+passGithubPLATAFORMA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubCOMMON:
+  des: "SGTH3COM"
+  pre: "SGTH2COM"
+  pro: "SGTH1COM"
+
+passGithubCOMMON:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubAPROBACION:
+  des: "SGTH3AGT"
+  pre: "SGTH2AGT"
+  pro: "SGTH1AGT"
+
+passGithubAPROBACION:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLDATASHARE:
+  des: "SGTH3GDT"
+  pre: "SGTH2GDT"
+  pro: "SGTH1GDT"
+
+passGithubGOLDATASHARE:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userGithubGOLWSSI:
+  des: "SGTH3GWS"
+  pre: "SGTH2GWS"
+  pro: "SGTH1GWS"
+
+passGithubGOLWSSI:
+  des: "1"
+  pre: "1"
+  pro: "1"

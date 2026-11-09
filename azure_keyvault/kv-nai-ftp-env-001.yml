@@ -1,0 +1,145 @@
+userftp1:
+  des: "SFTP0028"
+  pre: "ftpnai"
+  pro: "ftpnai"
+  
+
+userTARJETAOPEN:
+  des: "dsfecinai"
+  pre: "dsfecinai"
+  pro: "dsfecinai"
+
+userSFTPINVENTARIO:
+  des: "sftp_inventario_nai_des"
+  pre: "SFTP0094"
+  pro: "SFTP0093"
+
+userAITEX:
+  des: "aitex_des"
+  pre: "aitex_des"
+  pro: "aitex"
+  
+userCONSTRUCCIONES:
+  des: "sftp_construcciones_nai_des"
+  pre: "sftp_construcciones_nai_pre"
+  pro: "SFTP0051"	
+
+userSFTPSOTI:
+  des: "COS_SOTI_NFT"
+  pre: "COS_SOTI_NFT"
+  pro: "COS_SOTI"
+
+userSFTPDCH:
+  des: ""
+  pre: ""
+  pro: "SFTP0035"
+
+userFTPClarity:
+  des: ""
+  pre: ""
+  pro: "clarity"
+
+userFTPAfluencia:
+  des: ""
+  pre: ""
+  pro: "CLISG"
+
+userComposturas:
+  des: "compprenai"
+  pre: "compprenai"
+  pro: "SFTP0116"
+
+userFTPAdmira01:
+  des: ""
+  pre: "SFTP0099"
+  pro: "SFTP0098"
+
+userSFTPPNL:
+  des: ""
+  pre: ""
+  pro: "sftp0125"
+
+userSFTPPicking:
+  des: "SFTP0130"
+  pre: "SFTP0130"
+  pro: "SFTP0130"
+
+userOTPSplunk:
+  des: "SFTP0132"
+  pre: "SFTP0132"
+  pro: "SFTP0136"
+
+userOTPTelecor:
+  des: "SFTP0132"
+  pre: "SFTP0132"
+  pro: "SFTP0128"
+
+userOrquestadorFeedAlimentacion: 
+  des: ""
+  pre: ""
+  pro: "SFTP0137"
+
+userSFTPAemet:
+  des: "SFTP0101"
+  pre: "SFTP0101"
+  pro: "CLISG"
+
+userTarjetaRegalo:
+  des: "elv2nai"
+  pre: "elv2nai"
+  pro: "elv2nai"
+
+userSFTQualtrics: 
+  des: "qualtrics"
+  pre: "qualtrics"
+  pro: "Qualtrics"
+
+userSFTPSaludMarcas:
+  des: "SFTP0136"
+  pre: "SFTP0136"
+  pro: "SFTP0136"
+
+userSFTPECIE:
+  des: "SFTP0158"
+  pre: "SFTP0158"
+  pro: "SFTP0158"
+
+userSftpTandem:
+  des: "SFTP0145"
+  pre: "SFTP0145"
+  pro: "SFTP0187"
+
+userSFTPficherosGasto:
+  des: "SFTP0146"
+  pre: "SFTP0146"
+  pro: "CLISG"
+
+userMDM:
+  des: ""
+  pre: ""
+  pro: "SFTP0185"
+
+userMyPlan:
+  des: ""
+  pre: "SFTP0203"
+  pro: "SFTP0203"
+
+userMarcajes:
+  des: "SFTP0080"
+  pre: "SFTP0080"
+  pro: "SFTP0080"
+
+userMarcajesDes:
+  des: "SFTP0153"
+  pre: ""
+  pro: ""
+
+userMarcajesPre:
+  des: ""
+  pre: "SFTP0153"
+  pro: ""
+
+  userFTPBPC:
+  des: "SFTP0155"
+  pre: "SFTP0155"
+  pro: "SFTP0216"

@@ -1,0 +1,69 @@
+usersap1:
+  des: "S_DFACTORY_EDW_PORTAL"
+  pre: "S_DFACTORY_EDW_PORTAL"
+  pro: "S_DFACTORY_EDW_PORTAL"
+
+usersap2:
+  des: "S_DFACTORY_EDW_PORTAL"
+  pre: "S_DFACTORY_EDW_PORTAL"
+  pro: "S_DFACTORY_EDW_PORTAL"
+
+usersap3:
+  des: "S_DFACTORY_EDW_PORTAL"
+  pre: "S_DFACTORY_EDW_PORTAL"
+  pro: "S_DFACTORY_NAI_MVP"
+
+userOrquestador:
+  des: "S_ADF_ORQUESTADOR"
+  pre: "S_ADF_ORQUESTADOR"
+  pro: "S_ADF_ORQUESTADOR"
+  
+userSapHanaEnterprise:
+  des: "S_DFACTORY_SNOWFLAKE"
+  pre: "S_DFACTORY_SNOWFLAKE"
+  pro: "S_DFACTORY_SNOWFLAKE"
+
+userSADFNAIREGIONALES:
+  des: "S_ADF_NAI_REGIONALES"
+  pre: "S_ADF_NAI_REGIONALES"
+  pro: ""
+
+userPlanesClientes:
+  des: "S_ADF_NAI_MIMO"
+  pre: "S_ADF_NAI_MIMO"
+  pro: "S_ADF_NAI_MIMO"
+
+userNormVentasOpen:
+  des: "S_AZ_EBDW_VENTA_OPEN"
+  pre: "S_AZ_EBDW_VENTA_OPEN"
+  pro: "S_AZ_EBDW_VENTA_OPEN"
+
+userRunClientes:
+  des: "S_ADF_NAI_RUNCLIENTES"
+  pre: "S_ADF_NAI_RUNCLIENTES"
+  pro: "S_ADF_NAI_RUNCLIENTES"
+
+userHanaOneTrust: 
+  des: "S_ADF_NAI_ONETRUST"
+  pre: "S_ADF_NAI_ONETRUST"
+  pro: ""
+  
+userQualtrics:
+  des: "S_ADF_NAI_QUALTRICS"
+  pre: "S_ADF_NAI_QUALTRICS"
+  pro: "S_ADF_NAI_QUALTRICS"
+
+userSapHanaEnterpriseClientes:
+  des: "S_DFACTORY_SNOWFLAKE_CLIENTES"
+  pre: "S_DFACTORY_SNOWFLAKE_CLIENTES"
+  pro: "S_DFACTORY_SNOWFLAKE_CLIENTES"
+
+userBPCExtractor:
+  des: "S_ADF_EXTRACTOR"
+  pre: "S_ADF_EXTRACTOR"
+  pro: "S_ADF_EXTRACTOR"
+
+passBPCExtractor:
+  des: "1"
+  pre: "Mi0403$2Eb26Viz"
+  pro: "1"
