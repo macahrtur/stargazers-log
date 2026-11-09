@@ -1,32 +1,32 @@
 userADFDomGOLCRMCLIENTES:
-  des: "SADF3DCC"
-  pre: "SADF2DCC"
-  pro: "SADF1DCC"
+  des: "SADF3DCC1"
+  pre: "SADF2DCC1"
+  pro: "SADF1DCC1"
 
 userADFDomGOLDEPRECIACION:
-  des: "SADF3DDE"
-  pre: "SADF2DDE"
-  pro: "SADF1DDE"
+  des: "SADF3DDE2"
+  pre: "SADF2DDE2"
+  pro: "SADF1DDE2"
 
 userADFDomGOLRELEX:
-  des: "SADF3DRE"
-  pre: "SADF2DRE"
-  pro: "SADF1DRE"
+  des: "SADF3DRE3"
+  pre: "SADF2DRE3"
+  pro: "SADF1DRE3"
 
 userADFDomGOLSIVHOGAR:
-  des: "SADF3DSH"
-  pre: "SADF2DSH"
-  pro: "SADF1DSH"
+  des: "SADF3DSH4"
+  pre: "SADF2DSH4"
+  pro: "SADF1DSH4"
 
 userAFTDomGOLSIRTRELEVANCIA:
-  des: "SAFT3GSR"
-  pre: "SAFT2GSR"
-  pro: "SAFT1GSR"
+  des: "SAFT3GSR5"
+  pre: "SAFT2GSR5"
+  pro: "SAFT1GSR5"
 
 userAFTDomGOLVENTASOPEN:
-  des: "SAFT3GVO"
-  pre: "SAFT2GVO"
-  pro: "SAFT1GVO"
+  des: "SAFT3GVO6"
+  pre: "SAFT2GVO6"
+  pro: "SAFT1GVO6"
 
 userADFDomGOLCOMMUNICATIONHUB:
   des: "SADF3DCH"

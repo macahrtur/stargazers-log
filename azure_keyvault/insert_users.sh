@@ -79,5 +79,5 @@ for file in "${files[@]}"; do
     #             echo "$passname found in Key Vault. Orphan secret removed"
     #         fi
     #     fi
-    done
+    #done
 done
