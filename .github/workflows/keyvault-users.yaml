@@ -18,8 +18,8 @@ jobs:
   # DES
   # ─────────────────────────────
   keyvault-des:
-    runs-on:
-      group: eci-data-runners
+    runs-on: ubuntu-latest
+      # group: eci-data-runners
     environment: develop
 
     env:
@@ -78,8 +78,8 @@ jobs:
   # ─────────────────────────────
   keyvault-pre:
     # needs: keyvault-des
-    runs-on:
-      group: eci-data-runners
+    runs-on: ubuntu-latest
+      # group: eci-data-runners
     environment: preprod
 
     env:
@@ -138,8 +138,8 @@ jobs:
   # ─────────────────────────────
   keyvault-pro:
     # needs: keyvault-pre
-    runs-on:
-      group: eci-data-runners
+    runs-on: ubuntu-latest
+      # group: eci-data-runners
     environment: production
 
     env:
