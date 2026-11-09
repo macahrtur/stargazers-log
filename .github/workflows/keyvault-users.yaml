@@ -8,7 +8,7 @@ on:
     # paths:
     #   - 'azure_keyvault/**'
   workflow_dispatch:
-
+  
 permissions:
   id-token: write
   contents: read
@@ -19,7 +19,6 @@ jobs:
   # ─────────────────────────────
   keyvault-des:
     runs-on: ubuntu-latest
-      # group: eci-data-runners
     environment: develop
 
     env:
@@ -73,7 +72,7 @@ jobs:
           ./insert_users.sh "$ENTORNO" "${changed_files[@]}"
           echo "END DES"
 
-  # ─────────────────────────────
+# ─────────────────────────────
   # PRE
   # ─────────────────────────────
   keyvault-pre:
@@ -192,3 +191,6 @@ jobs:
           printf 'Changed files:\n%s\n' "${changed_files[@]}"
           ./insert_users.sh "$ENTORNO" "${changed_files[@]}"
           echo "END PRO"
+  #         printf 'Changed files:\n%s\n' "${changed_files[@]}"
+  #         ./insert_users.sh "$ENTORNO" "${changed_files[@]}"
+  #         echo "END PRO"
