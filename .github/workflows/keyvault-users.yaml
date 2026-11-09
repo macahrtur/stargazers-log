@@ -46,6 +46,7 @@ jobs:
 
       - name: Insert users in Key Vault (DES)
         run: |
+          echo "Start DES"
           if [[ "${{ github.event_name }}" == "push" ]]; then
             BASE_SHA="${{ github.event.before }}"
             if ! git cat-file -e "${BASE_SHA}^{commit}" 2>/dev/null; then
@@ -68,6 +69,7 @@ jobs:
 
           printf 'Changed files:\n%s\n' "${changed_files[@]}"
           ./insert_users.sh "$ENTORNO" "${changed_files[@]}"
+          echo "END DES"
 
   # # ─────────────────────────────
   # # PRE
