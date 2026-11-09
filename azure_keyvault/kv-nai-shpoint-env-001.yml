@@ -1,0 +1,179 @@
+userSharepointInventario:
+  des: "d4fcc5df-7887-4ba4-bff9-31e0ea0901b0"
+  pre: "d4fcc5df-7887-4ba4-bff9-31e0ea0901b0"
+  pro: "d4fcc5df-7887-4ba4-bff9-31e0ea0901b0"
+
+userSharepointMAC:
+  des: "96f320cb-a0e2-48ff-81f6-93656474a998"
+  pre: ""
+  pro: ""
+
+userSharepointAfluencia:
+  des: "b0b870d8-652f-49dc-8f0e-893711ac2e4a"
+  pre: "b0b870d8-652f-49dc-8f0e-893711ac2e4a"
+  pro: "b0b870d8-652f-49dc-8f0e-893711ac2e4a"
+
+userSharepointGestorTurnos:
+  des: "68ff4215-5229-4604-83e8-96bfb9506448"
+  pre: "68ff4215-5229-4604-83e8-96bfb9506448"
+  pro: "68ff4215-5229-4604-83e8-96bfb9506448"
+
+userSharepointPianelShadow:
+  des: "2e3f90ad-f97f-4e4f-a29f-6ffafd3fc78c"
+  pre: "2e3f90ad-f97f-4e4f-a29f-6ffafd3fc78c"
+  pro: "2e3f90ad-f97f-4e4f-a29f-6ffafd3fc78c"
+
+userSharepointPedidos:
+  des: "2a3c10b1-1190-454a-8b3c-337b28da5119"
+  pre: "2a3c10b1-1190-454a-8b3c-337b28da5119"
+  pro: "2a3c10b1-1190-454a-8b3c-337b28da5119"
+
+userSharepointRepartoCostesRenting:
+  des: "fc08b822-93e8-497c-b90b-21db9584f9c8"
+  pre: "fc08b822-93e8-497c-b90b-21db9584f9c8"
+  pro: "fc08b822-93e8-497c-b90b-21db9584f9c8"
+
+userSharepointInformacionalConstrucciones:
+  des: "93657bdb-aab2-4cc7-909c-1e07c0002d5b"
+  pre: "93657bdb-aab2-4cc7-909c-1e07c0002d5b"
+  pro: "93657bdb-aab2-4cc7-909c-1e07c0002d5b"
+
+userSharepointInformacionalB2B:
+  des: "dab008e7-e0a5-4539-a722-fa2f47f0fa00"
+  pre: "dab008e7-e0a5-4539-a722-fa2f47f0fa00"
+  pro: "dab008e7-e0a5-4539-a722-fa2f47f0fa00"
+
+userSharepointxCMDB:
+  des: "172a29a6-f5b9-40cb-b8fd-963e235b703d"
+  pre: "172a29a6-f5b9-40cb-b8fd-963e235b703d"
+  pro: "172a29a6-f5b9-40cb-b8fd-963e235b703d"
+
+userSharepointMODELANALITICOCOSTES:
+  des: "2a70f0d3-cd4b-48ff-b217-0563eb44caf0"
+  pre: "2a70f0d3-cd4b-48ff-b217-0563eb44caf0"
+  pro: "2a70f0d3-cd4b-48ff-b217-0563eb44caf0"
+
+userSharepointAEMET:
+  des: "c6491c58-a716-491f-910c-38a9cc688509"
+  pre: "c6491c58-a716-491f-910c-38a9cc688509"
+  pro: "c6491c58-a716-491f-910c-38a9cc688509"
+
+userSharepointOrquestador:
+  des: "27f7ef9a-d145-4ede-ad62-9f45f506db10"
+  pre: "27f7ef9a-d145-4ede-ad62-9f45f506db10"
+  pro: "27f7ef9a-d145-4ede-ad62-9f45f506db10"
+
+userSharepointANALITICAVENTA:
+  des: "ef938cf2-3a6f-462b-9600-b59973a95104"
+  pre: "ef938cf2-3a6f-462b-9600-b59973a95104"
+  pro: "ef938cf2-3a6f-462b-9600-b59973a95104"
+
+userSharepointOneTrust:
+  des: "bb750726-4147-4b69-9c3d-aedc19633ab3"
+  pre: "bb750726-4147-4b69-9c3d-aedc19633ab3"
+  pro: "bb750726-4147-4b69-9c3d-aedc19633ab3"
+
+userSharepointPSIPROVEEDORES:
+  des: "bd067654-c221-4144-98b6-751cc3890bdb"
+  pre: "bd067654-c221-4144-98b6-751cc3890bdb"
+  pro: "bd067654-c221-4144-98b6-751cc3890bdb"
+
+userSharepointMAESTRAS:
+  des: "6c9ce32f-b964-4e05-bd6c-b475de28e30e"
+  pre: "6c9ce32f-b964-4e05-bd6c-b475de28e30e"
+  pro: "6c9ce32f-b964-4e05-bd6c-b475de28e30e"
+
+userSharepointMODELOSBETA:
+  des: "88f8a143-72b6-4d35-982c-7fa47bdeb50c"
+  pre: "88f8a143-72b6-4d35-982c-7fa47bdeb50c"
+  pro: "88f8a143-72b6-4d35-982c-7fa47bdeb50c"
+
+userSharepointAGORA:
+  des: "d6ab6b6d-a9e9-4b00-93e2-519dd3997322"
+  pre: "d6ab6b6d-a9e9-4b00-93e2-519dd3997322"
+  pro: "d6ab6b6d-a9e9-4b00-93e2-519dd3997322"
+
+userSharepointW1WMODELOSBETA:
+  des: "bce403bb-ccc2-43e4-9b82-6aae812f47f5"
+  pre: "bce403bb-ccc2-43e4-9b82-6aae812f47f5"
+  pro: "bce403bb-ccc2-43e4-9b82-6aae812f47f5"
+
+userSharepointCONTROLGASTOIA:
+  des: "973e8206-899d-4514-9936-fbd921611adf"
+  pre: "973e8206-899d-4514-9936-fbd921611adf"
+  pro: "973e8206-899d-4514-9936-fbd921611adf"
+
+userSharepointRunClientes:
+  des: "9764438e-6acf-4f25-836e-651cb2782280"
+  pre: "9764438e-6acf-4f25-836e-651cb2782280"
+  pro: "9764438e-6acf-4f25-836e-651cb2782280"
+
+userSharepointTARJETAREGALO:
+  des: "ed35c755-2534-40db-9652-0fd00131082b"
+  pre: "ed35c755-2534-40db-9652-0fd00131082b"
+  pro: "ed35c755-2534-40db-9652-0fd00131082b"
+
+userSharepointEI2MODELOSBETA:
+  des: "8b7e6274-bd74-41ec-b388-5ece8c337016"
+  pre: "8b7e6274-bd74-41ec-b388-5ece8c337016"
+  pro: "8b7e6274-bd74-41ec-b388-5ece8c337016"
+
+userSharepointREPARTOCOSTESCLOUD:
+  des: "172a29a6-f5b9-40cb-b8fd-963e235b703d"
+  pre: "172a29a6-f5b9-40cb-b8fd-963e235b703d"
+  pro: "172a29a6-f5b9-40cb-b8fd-963e235b703d"
+
+userSharepointSIV:
+  des: "62abdc46-87f9-4c58-bf5b-6785e77c9369"
+  pre: "62abdc46-87f9-4c58-bf5b-6785e77c9369"
+  pro: "62abdc46-87f9-4c58-bf5b-6785e77c9369"
+
+userSharepointADMIRA:
+  des: "697a664e-fa73-4cea-b0c3-b43638a1995d"
+  pre: "697a664e-fa73-4cea-b0c3-b43638a1995d"
+  pro: "697a664e-fa73-4cea-b0c3-b43638a1995d"
+
+userSharepointE74000PROVEEDOR360:
+  des: "9b900996-3382-46aa-8a04-d69fb42aefe0"
+  pre: "9b900996-3382-46aa-8a04-d69fb42aefe0"
+  pro: "9b900996-3382-46aa-8a04-d69fb42aefe0"
+
+userSharepointEN3000CONTENIDOSMKT:
+  des: "5e32410e-0845-4e2b-bfa1-693ea0558b18"
+  pre: "5e32410e-0845-4e2b-bfa1-693ea0558b18"
+  pro: "5e32410e-0845-4e2b-bfa1-693ea0558b18"
+
+userSharepointEG6000MARKETING:
+  des: "73408605-c13f-43c2-ad49-00e0fea468ef"
+  pre: "73408605-c13f-43c2-ad49-00e0fea468ef"
+  pro: "73408605-c13f-43c2-ad49-00e0fea468ef"
+
+userSharepointER3000INFORMACIONALBPC:
+  des: "94739242-5243-4587-9e91-60c9ebd7d1fd"
+  pre: "94739242-5243-4587-9e91-60c9ebd7d1fd"
+  pro: "94739242-5243-4587-9e91-60c9ebd7d1fd"
+
+userSharepointEM0000MDMCLIENTES:
+  des: "9da729d8-e71d-4ae3-9432-ab519072e7e7"
+  pre: "9da729d8-e71d-4ae3-9432-ab519072e7e7"
+  pro: "9da729d8-e71d-4ae3-9432-ab519072e7e7"
+
+userSharepointEH1000INFORMACIONALRRHH:
+  des: "0a3b969a-b173-4ade-b037-b9e7e1f48581"
+  pre: "0a3b969a-b173-4ade-b037-b9e7e1f48581"
+  pro: "0a3b969a-b173-4ade-b037-b9e7e1f48581"
+
+userSharepointE57000PLATAFORMANAI:
+  des: "6c9ce32f-b964-4e05-bd6c-b475de28e30e"
+  pre: "6c9ce32f-b964-4e05-bd6c-b475de28e30e"
+  pro: "6c9ce32f-b964-4e05-bd6c-b475de28e30e"
+
+userSharepointET6000RENDIMIENTOS:
+  des: "9b4881e4-e50d-470f-8329-b41104aff2ec"
+  pre: "9b4881e4-e50d-470f-8329-b41104aff2ec"
+  pro: "9b4881e4-e50d-470f-8329-b41104aff2ec"
+
+userSharepointE51000EVALOS8:
+  des: "e32d2557-1b6a-4150-bbb0-9cdf4342c79a"
+  pre: "e32d2557-1b6a-4150-bbb0-9cdf4342c79a"
+  pro: "e32d2557-1b6a-4150-bbb0-9cdf4342c79a"

@@ -1,0 +1,54 @@
+userADFDomGOLCRMCLIENTES:
+  des: "SADF3DCC"
+  pre: "SADF2DCC"
+  pro: "SADF1DCC"
+
+userADFDomGOLDEPRECIACION:
+  des: "SADF3DDE"
+  pre: "SADF2DDE"
+  pro: "SADF1DDE"
+
+userADFDomGOLRELEX:
+  des: "SADF3DRE"
+  pre: "SADF2DRE"
+  pro: "SADF1DRE"
+
+userADFDomGOLSIVHOGAR:
+  des: "SADF3DSH"
+  pre: "SADF2DSH"
+  pro: "SADF1DSH"
+
+userAFTDomGOLSIRTRELEVANCIA:
+  des: "SAFT3GSR"
+  pre: "SAFT2GSR"
+  pro: "SAFT1GSR"
+
+userAFTDomGOLVENTASOPEN:
+  des: "SAFT3GVO"
+  pre: "SAFT2GVO"
+  pro: "SAFT1GVO"
+
+userADFDomGOLCOMMUNICATIONHUB:
+  des: "SADF3DCH"
+  pre: "SADF2DCH"
+  pro: "SADF1DCH"
+
+userADFDomGOLVISTEX:
+  des: "SADF3DVI"
+  pre: "SADF2DVI"
+  pro: "SADF1DVI"
+
+userADFDomGOLCOBERTURAEXTERNA:
+  des: "SADF3DCE"
+  pre: "SADF2DCE"
+  pro: "SADF1DCE"
+
+userADFDomGOLPROMOCIONES:
+  des: "SADF3DPR"
+  pre: "SADF2DPR"
+  pro: "SADF1DPR"
+
+userADFDomGOLPLANOGRAMA:
+  des: "SADF3DPN"
+  pre: "SADF2DPN"
+  pro: "SADF1DPN"

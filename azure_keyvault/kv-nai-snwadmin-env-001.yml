@@ -1,0 +1,9 @@
+userACCOUNTADMIN:
+  des: "SNW3ADM3"
+  pre: "SNW2ADM2"
+  pro: "SNW1ADM1"
+
+userDevopsSEG:
+  des: "SDVP3SEG"
+  pre: "SDVP2SEG"
+  pro: "SDVP1SEG"

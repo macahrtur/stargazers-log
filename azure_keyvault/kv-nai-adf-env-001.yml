@@ -1,0 +1,261 @@
+#usuarios de servicio ADF SILVER
+userADFSILACTIVOSDIGITALES:
+  des: "SADF3SAD"
+  pre: "SADF2SAD"
+  pro: "SADF1SAD"
+
+passADFSILACTIVOSDIGITALES:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFSILCADENASUMINISTRO:
+  des: "SADF3SCS"
+  pre: "SADF2SCS"
+  pro: "SADF1SCS"
+
+passADFSILCADENASUMINISTRO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFSILCLIENTES:
+  des: "SADF3SCL"
+  pre: "SADF2SCL"
+  pro: "SADF1SCL"
+
+passADFSILCLIENTES:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFSILCOMPRAS:
+  des: "SADF3SCP"
+  pre: "SADF2SCP"
+  pro: "SADF1SCP"
+
+passADFSILCOMPRAS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFSILFINANCIERA:
+  des: "SADF3SFN"
+  pre: "SADF2SFN"
+  pro: "SADF1SFN"
+
+passADFSILFINANCIERA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFSILFINANZASCONTROLLING:
+  des: "SADF3SFC"
+  pre: "SADF2SFC"
+  pro: "SADF1SFC"
+
+passADFSILFINANZASCONTROLLING:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFSILHUBTERCEROS:
+  des: "SADF3SHB"
+  pre: "SADF2SHB"
+  pro: "SADF1SHB"
+
+passADFSILHUBTERCEROS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFSILJURIDICO:
+  des: "SADF3SJR"
+  pre: "SADF2SJR"
+  pro: "SADF1SJR"
+
+passADFSILJURIDICO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFSILMARKETING:
+  des: "SADF3SMK"
+  pre: "SADF2SMK"
+  pro: "SADF1SMK"
+
+passADFSILMARKETING:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFSILSOSTENIBILIDAD:
+  des: "SADF3SST"
+  pre: "SADF2SST"
+  pro: "SADF1SST"
+
+passADFSILSOSTENIBILIDAD:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFSILSISTEMAINFORMACION:
+  des: "SADF3SSI"
+  pre: "SADF2SSI"
+  pro: "SADF1SSI"
+
+passADFSILSISTEMAINFORMACION:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFSILVENTAS:
+  des: "SADF3SVT"
+  pre: "SADF2SVT"
+  pro: "SADF1SVT"
+
+passADFSILVENTAS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFSILSAC:
+  des: "SADF3SSC"
+  pre: "SADF2SSC"
+  pro: "SADF1SSC"
+
+passADFSILSAC:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFSILMDM:
+  des: "SADF3SMD"
+  pre: "SADF2SMD"
+  pro: "SADF1SMD"
+
+passADFSILMDM:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFSILRRHH:
+  des: "SADF3SRH"
+  pre: "SADF2SRH"
+  pro: "SADF1SRH"
+
+passADFSILRRHH:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userADFSILSEGURIDAD:
+  des: "SADF3SSG"
+  pre: "SADF2SSG"
+  pro: "SADF1SSG"
+
+passADFSILSEGURIDAD:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userDataFactory:
+  des: "SNW3ADF3"
+  pre: "SNW2ADF2"
+  pro: "SNW1ADF1"
+
+passDataFactory:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userMyPlan:
+  des: ""
+  pre: "SFTP0203"
+  pro: "SFTP0203"
+
+userADFSILPROMOCIONES:
+  des: "SADF3SPR"
+  pre: "SADF2SPR"
+  pro: "SADF1SPR"
+
+passADFSILPROMOCIONES:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+# variables necesarias para adf-nai-plataforma-001
+varDB2Collection:
+  des: "NULLID"
+  pre: "NULLID"
+  pro: "NULLID"
+
+varDB2Database:
+  des: "DSP0"
+  pre: "DS81"
+  pro: "DST0"
+
+varDB2ServerName:
+  des: "10.37.250.58:32980"
+  pre: "10.37.250.57:32993"
+  pro: "10.32.250.58:32991"
+
+varSAPServerName:
+  des: "hdbed3a.des.eci.geci:30015"
+  pre: "hdbed2v.pre.eci.geci:30015"
+  pro: "hdbed1v.eci.geci:30015"
+
+varSAPServerName2:
+  des: "hdbed3a.des.eci.geci:30015"
+  pre: "ed1falsopro.eci.geci:30015"
+  pro: "ed1falsopro.eci.geci:30015"
+
+varSFTPHostIp:
+  des: "10.38.155.1"
+  pre: "10.38.155.1"
+  pro: "10.32.155.1"
+
+varSFTPHostName:
+  des: "ftpcorp.pre.eci.geci"
+  pre: "ftpcorp.pre.eci.geci"
+  pro: "ftpcorp.eci.geci"
+
+varSFTPPort:
+  des: "22"
+  pre: "22"
+  pro: "22"
+
+varSNWAccountName:
+  des: "qa82406.west-europe.privatelink"
+  pre: "wa17913.west-europe.privatelink"
+  pro: "ai43986.west-europe.privatelink"
+
+varORACLEHost:
+  des: ""
+  pre: "cdial.des.eci.geci"
+  pro: "cdial.des.eci.geci"
+
+varORACLEPort:
+  des: ""
+  pre: "1522"
+  pro: "1522"
+
+varORACLESid:
+  des: ""
+  pre: "cdiad"
+  pro: "cdiad"
+
+varPOSTGREDb:
+  des: ""
+  pre: "geci"
+  pro: "geci"
+
+varPOSTGREHost:
+  des: ""
+  pre: "MX00000018D3063.eci.geci"
+  pro: "MX00000018D3063.eci.geci"
+
+varPOSTGREPort:
+  des: ""
+  pre: "5432"
+  pro: "5432"

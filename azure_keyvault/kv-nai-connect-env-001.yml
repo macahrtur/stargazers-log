@@ -1,0 +1,454 @@
+userPBIGOLECOMMERCE:
+  des: ""
+  pre: ""
+  pro: "SPBI1GEC"
+
+userInformaticaDQ:
+  des: "SIDM3IDQ"
+  pre: "SIDM2IDQ"
+  pro: "SIDM1IDQ"
+
+userInformaticaIDMC:
+  des: "SIDM3IDM"
+  pre: "SIDM2IDM"
+  pro: "SIDM1IDM"
+
+userMICROGOLBPC:
+  des: "SMST3GBP"
+  pre: "SMST2GBP"
+  pro: "SMST1GBP"
+
+userDataStageGolB2B:
+  des: "SNW3DTS3"
+  pre: "SNW2DTS2"
+  pro: "SNW1DTS1"
+
+userMICROGOLMERCANCIAS:
+  des: "SMST3MRC"
+  pre: "SMST2MRC"
+  pro: "SMST1MRC"
+
+userDataStageInformacional:
+  des: "SNW3DSI3"
+  pre: "SNW2DSI2"
+  pro: "SNW1DSI1"
+  
+userInformaticaDQdeprecated:
+  des: "S3IDM3DQ"
+  pre: "S2IDM2DQ"
+  pro: "S1IDM1DQ"
+
+userQLIKSENSEGOLMPOS:
+  des: "SQLI3GMP"
+  pre: "SQLI2GMP"
+  pro: "SQLI1GMP"
+
+userMicroserviceGOLPORTALMODA:
+  des: "SFPM3GPM"
+  pre: "SFPM2GPM"
+  pro: "SFPM1GPM"
+
+userMicroGOLFIREFLYINFORMACIONAL:
+  des: "SMCS3GFI"
+  pre: "SMCS2GFI"
+  pro: "SMCS1GFI"
+
+userMicroGOLFIREFLYOPERACIONAL:
+  des: "SMCS3GFO"
+  pre: "SMCS2GFO"
+  pro: "SMCS1GFO"
+
+userMICROGOLCONTROLUNITARIO:
+  des: "SMST3GCN"
+  pre: "SMST2GCN"
+  pro: "SMST1GCN"
+
+userMicroGOLQAFIREFLYOPERACIONAL:
+  des: "SMQA3GFO"
+  pre: "SMQA2GFO"
+  pro: "SMQA1GFO"
+
+userPruebaGOLPORTALMODA:
+  des: "SMCS3PPM"
+  pre: "SMCS2PPM"
+  pro: "SMCS1PPM"
+
+userMICROGOLCOP4:
+  des: "SMST3GC4"
+  pre: "SMST2GC4"
+  pro: "SMST1GC4"
+
+userCDCKAFKALNDDeprecated: 
+  des: "SNW3KFK3"
+  pre: "SNW2KFK2"
+  pro: "SNW1KFK1"
+
+userSNPGLUELNDDeprecated:
+  des: "SNW3SNP3"
+  pre: "SNW2SNP2"
+  pro: "SNW1SNP1"
+
+userKafkaGOLCRMCLIENTES:
+  des: "SKFK3GCC"
+  pre: "SKFK2GCC"
+  pro: "SKFK1GCC"
+
+userCelonisGOLMINERIA:
+  des: "SCLN3GMN"
+  pre: "SCLN2GMN"
+  pro: "SCLN1GMN"
+
+userMicroserviceGOLPORTALMODAPEDIDOS:
+  des: "SFPM3GPE"
+  pre: "SFPM2GPE"
+  pro: "SFPM1GPE"
+
+userAppianGOLORQUESTADOR:
+  des: "SAPN3GOR"
+  pre: "SAPN2GOR"
+  pro: "SAPN1GOR"
+
+userDatoramaGOLRETAILMEDIA:
+  des: "SDTM3GRM"
+  pre: "SDTM2GRM"
+  pro: "SDTM1GRM"
+
+userMICROGOLOMNICANAL:
+  des: "SMST3OMN"
+  pre: "SMST2OMN"
+  pro: "SMST1OMN"
+
+userMICROGOLSAC:
+  des: "SMST3SAC"
+  pre: "SMST2SAC"
+  pro: "SMST1SAC"
+
+userMICROGOLVENTAS:
+  des: "SMST3VNT"
+  pre: "SMST2VNT"
+  pro: "SMST1VNT"
+
+userDataStageGOLB2B:
+  des: "SDTS3GB2"
+  pre: "SDTS2GB2"
+  pro: "SDTS1GB2"
+
+userDataStageInformacionalLND:
+  des: "SDSI3LPF"
+  pre: "SDSI2LPF"
+  pro: "SDSI1LPF"
+
+userInformaticaCROSSGovernance:
+  des: "SIDM3CGV"
+  pre: "SIDM2CGV"
+  pro: "SIDM1CGV"
+
+userCdcKakfaLND: 
+  des: "SKFK3LPF"
+  pre: "SKFK2LPF"
+  pro: "SKFK1LPF"
+
+userSnpGlueLND:
+  des: "SSNP3LPF"
+  pre: "SSNP2LPF"
+  pro: "SSNP1LPF"
+
+userSailpointCROSSGestionIdentidades:
+  des: "SSLP3CGI"
+  pre: "SSLP2CGI"
+  pro: "SSLP1CGI"
+
+userMicroserviceBTGOLPORTALMODA:
+  des: "SMBT3GPM"
+  pre: "SMBT2GPM"
+  pro: "SMBT1GPM"
+
+userMicroserviceEVGOLPORTALMODA:
+  des: "SMEV3GPM"
+  pre: "SMEV2GPM"
+  pro: "SMEV1GPM"
+
+userMicroservicePLGOLPORTALMODA:
+  des: "SMPL3GPM"
+  pre: "SMPL2GPM"
+  pro: "SMPL1GPM"
+
+userMicroserviceRKGOLPORTALMODA:
+  des: "SMRK3GPM"
+  pre: "SMRK2GPM"
+  pro: "SMRK1GPM"
+
+userSailpoint:
+  des: "SNW3SLP1"
+  pre: "SNW2SLP1"
+  pro: "SNW1SLP1"
+
+userSalesforceDCPOCCRMCLIENTES:
+  des: "SSDC3GPC"
+  pre: ""
+  pro: ""
+
+userMicroserviceBTGOLPORTALMODAPEDIDOS:
+  des: "SMBT3GPE"
+  pre: "SMBT2GPE"
+  pro: "SMBT1GPE"
+
+userMicroserviceBTGOLFPORTALMODAPEDIDOS:
+  des: ""
+  pre: ""
+  pro: "SMBT4GPE"
+
+userMicroserviceGOLFPORTALMODAPEDIDOS:
+  des: ""
+  pre: ""
+  pro: "SFPM4GPE"
+
+userSAPPLATAFORMAINFORMATICA:
+  des: "SPOC3LAR"
+  pre: "1"
+  pro: "1"
+
+passSAPPLATAFORMAINFORMATICA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userMicroGOLDEPRECACION:
+  des: "SMST3GDE"
+  pre: "SMST2GDE"
+  pro: "SMST1GDE"
+
+passMicroGOLDEPRECACION:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userAzureCopilotGOLCHATBOTCOMPRAS:
+  des: "SACP3GCB"
+  pre: "SACP2GCB"
+  pro: "SACP1GCB"
+
+passAzureCopilotGOLCHATBOTCOMPRAS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userPOCGOLWSSI:
+  des: "SPOC3GWS"
+  pre: ""
+  pro: ""
+
+passPOCGOLWSSI:
+  des: "1"
+  pre: ""
+  pro: ""
+
+userSMONIALL:
+  des: ""
+  pre: ""
+  pro: "SMONIALL"
+
+passSMONIALL:
+  des: ""
+  pre: ""
+  pro: "1"
+
+userMicroCONTROLGASTO:
+  des: "SMST3GCG"
+  pre: "SMST2GCG"
+  pro: "SMST1GCG"
+
+passMicroCONTROLGASTO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userBoardMLFCCOM:
+  des: "SBRD3MCO"
+  pre: "SBRD2MCO"
+  pro: "SBRD1MCO"
+
+passBoardMLFCCOM:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userQLIKSENSEGOLAFLUENCIA:
+  des: "SQLI3GAF"
+  pre: "SQLI2GAF"
+  pro: "SQLI1GAF"
+
+passQLIKSENSEGOLAFLUENCIA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userMICROSNWPROVEEDORES:
+  des: "SMST3GP3"
+  pre: "SMST2GP3"
+  pro: "SMST1GP3"
+
+passMICROSNWPROVEEDORES:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userMICROSAASPOC:
+  des: "SSAS3POC"
+  pre: "SSAS2POC"
+  pro: "SSAS1POC"
+
+passMICROSAASPOC:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userMICROGOLDMPEDIDOS:
+  des: "SMST3GDM"
+  pre: "SMST2GDM"
+  pro: "SMST1GDM"
+
+passMICROGOLDMPEDIDOS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userDataStageKEVEL:
+  des: "SKDS3LND"
+  pre: "SKDS2LND"
+  pro: "SKDS1LND"
+
+passDataStageKEVEL:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userPalantirGOLFINOPS:
+  des: "SPLT3GFN"
+  pre: "SPLT2GFN"
+  pro: "SPLT1GFN"
+
+passPalantirGOLFINOPS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userSalesforceGOLCRMCLIENTES:
+  des: "SSDC3GCC"
+  pre: "SSDC2GCC"
+  pro: "SSDC1GCC"
+
+passSalesforceGOLCRMCLIENTES:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userpassMicroLNDIWS:
+  des: "SMCS3LIW"
+  pre: "SMCS2LIW"
+  pro: "SMCS1LIW"
+
+passpassMicroLNDIWS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userCyberArkPlataforma:
+  des: "SCYB3PLA"
+  pre: "SCYB2PLA"
+  pro: "SCYB1PLA"
+
+passCyberArkPlataforma:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userMicroGOLDatashare:
+  des: "SMCS3GDT"
+  pre: "SMCS2GDT"
+  pro: "SMCS1GDT"
+
+passMicroGOLDatashare:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userMicroGOLCDS:
+  des: "SMST3GST"
+  pre: "SMST2GST"
+  pro: "SMST1GST"
+
+passMicroGOLCDS:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userMicroGOLBPC:
+  des: "SMST3GBP"
+  pre: "SMST2GBP"
+  pro: "SMST1GBP"
+
+passMicroGOLBPC:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userMicroGOLAUDITORIAINTERNA:
+  des: "SMCS3GAI"
+  pre: "SMCS2GAI"
+  pro: "SMCS1GAI"
+
+passMicroGOLAUDITORIAINTERNA:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userSalesforceGOLMODELOPREDICTIVO:
+  des: "SSSC3GEM"
+  pre: "SSSC2GEM"
+  pro: "SSSC1GEM"
+
+passSalesforceGOLMODELOPREDICTIVO:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userPruebaMLPERSONALIZACION:
+  des: "SMCS3MPN"
+  pre: ""
+  pro: ""
+
+passPruebaMLPERSONALIZACION:
+  des: "1"
+  pre: ""
+  pro: ""
+
+userSAPCrowdStrike:
+  des: "SSIM3CSG"
+  pre: "SSIM2CSG"
+  pro: "SSIM1CSG"
+
+passSAPCrowdStrike:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userMicroGOLSNWPedidosAlimentacion:
+  des: "SMST3GEI"
+  pre: "SMST2GEI"
+  pro: "SMST1GEI"
+
+passMicroGOLSNWPedidosAlimentacion:
+  des: "1"
+  pre: "1"
+  pro: "1"
+
+userSAPGOLPAM:
+  des: "SMCS3GPA"
+  pre: "SMCS2GPA"
+  pro: "SMCS1GPA"
+
+passSAPGOLPAM:
+  des: "1"
+  pre: "1"
+  pro: "1"

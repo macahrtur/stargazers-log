@@ -1,0 +1,59 @@
+useroracle1:
+  des: "ORA1234"
+  pre: "ORA1234"
+  pro: "ORA1234"
+  
+userCDIAL:
+  des: "CONSULTA_NAI"
+  pre: "CONSULTA_NAI"
+  pro: "CONSULTA_NAI"
+  
+userNAVER:
+  des: "CONSULTA_NAI"
+  pre: "CONSULTA_NAI"
+  pro: "CONSULTA_NAI"
+
+userCORE:
+  des: "CONSULTA_NAI"
+  pre: "CONSULTA_NAI"
+  pro: "CONSULTA_NAI"
+
+userCOREHIS:
+  des: "CONSULTA_NAI"
+  pre: "CONSULTA_NAI"
+  pro: "CONSULTA_NAI"
+
+userGC:
+  des: "CONSULTA_NAI"
+  pre: "CONSULTA_NAI"
+  pro: "CONSULTA_NAI"
+
+userNAVEHIS:
+  des: "CONSULTA_NAI"
+  pre: "CONSULTA_NAI"
+  pro: "CONSULTA_NAI"
+  
+userPMOD:
+  des: "eciportalmoda"
+  pre: "eciportalmoda"
+  pro: "CONSULTA_ECIPMODA"
+
+UserOracleRC:
+  des: "exporter_nai"
+  pre: "exporter_nai"
+  pro: "exporter_nai"
+
+userDAM:
+  des: "exporter_nai"
+  pre: "exporter_nai"
+  pro: "exporter_nai"
+
+userOraclePAM:
+  des: "CONSULTA_NAI"
+  pre: "CONSULTA_NAI"
+  pro: "CONSULTA_NAI"
+
+userDatashare:
+  des: "DATASHARE"
+  pre: "DATASHARE"
+  pro: "DATASHARE"
