@@ -4,8 +4,9 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'azure_keyvault/**'
+      - dev
+    # paths:
+    #   - 'azure_keyvault/**'
   workflow_dispatch:
 
 permissions:
@@ -72,122 +73,122 @@ jobs:
           ./insert_users.sh "$ENTORNO" "${changed_files[@]}"
           echo "END DES"
 
-  # # ─────────────────────────────
-  # # PRE
-  # # ─────────────────────────────
-  # keyvault-pre:
-  #   # needs: keyvault-des
-  #   runs-on: ubuntu-latest
-  #     # group: eci-data-runners
-  #   environment: preprod
+  # ─────────────────────────────
+  # PRE
+  # ─────────────────────────────
+  keyvault-pre:
+    # needs: keyvault-des
+    runs-on: ubuntu-latest
+      # group: eci-data-runners
+    environment: preprod
 
-  #   env:
-  #     ENTORNO: pre
-  #     SECRET_SUFFIX: PREPROD
+    env:
+      ENTORNO: pre
+      SECRET_SUFFIX: PREPROD
 
-  #   defaults:
-  #     run:
-  #       working-directory: azure_keyvault
+    defaults:
+      run:
+        working-directory: azure_keyvault
 
-  #   steps:
-  #     - name: Checkout repository
-  #       uses: actions/checkout@v6
-  #       with:
-  #         fetch-depth: 0
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
-  #     # - name: Azure Login
-  #     #   uses: azure/login@v3
-  #     #   with:
-  #     #     client-id: ${{ secrets[format('SF_AZURE_CLIENT_ID_ADMIN_{0}', env.SECRET_SUFFIX)] }}
-  #     #     tenant-id: ${{ secrets.SF_AZURE_TENANT_ID }}
-  #     #     subscription-id: ${{ secrets[format('SF_AZURE_SUBSCRIPTION_ID_{0}', env.SECRET_SUFFIX)] }}
+      # - name: Azure Login
+      #   uses: azure/login@v3
+      #   with:
+      #     client-id: ${{ secrets[format('SF_AZURE_CLIENT_ID_ADMIN_{0}', env.SECRET_SUFFIX)] }}
+      #     tenant-id: ${{ secrets.SF_AZURE_TENANT_ID }}
+      #     subscription-id: ${{ secrets[format('SF_AZURE_SUBSCRIPTION_ID_{0}', env.SECRET_SUFFIX)] }}
 
-  #     - name: Make script executable
-  #       run: chmod +x insert_users.sh
+      - name: Make script executable
+        run: chmod +x insert_users.sh
 
-  #     - name: Insert users in Key Vault (PRE)
-  #       run: |
-  #         echo "Start PRE"
-  #         if [[ "${{ github.event_name }}" == "push" ]]; then
-  #           BASE_SHA="${{ github.event.before }}"
-  #           if ! git cat-file -e "${BASE_SHA}^{commit}" 2>/dev/null; then
-  #             BASE_SHA="$(git rev-parse HEAD~1 2>/dev/null || true)"
-  #           fi
+      - name: Insert users in Key Vault (PRE)
+        run: |
+          echo "Start PRE"
+          if [[ "${{ github.event_name }}" == "push" ]]; then
+            BASE_SHA="${{ github.event.before }}"
+            if ! git cat-file -e "${BASE_SHA}^{commit}" 2>/dev/null; then
+              BASE_SHA="$(git rev-parse HEAD~1 2>/dev/null || true)"
+            fi
 
-  #           if [[ -n "${BASE_SHA}" ]]; then
-  #             mapfile -t changed_files < <(git diff --name-only "${BASE_SHA}" "${{ github.sha }}" -- ':(top)azure_keyvault/*.yml' ':(top)azure_keyvault/*.yaml' | sed 's#^azure_keyvault/##')
-  #           else
-  #             mapfile -t changed_files < <(git ls-files '*.yml' '*.yaml')
-  #           fi
-  #         else
-  #           mapfile -t changed_files < <(ls -1 *.yml *.yaml 2>/dev/null || true)
-  #         fi
+            if [[ -n "${BASE_SHA}" ]]; then
+              mapfile -t changed_files < <(git diff --name-only "${BASE_SHA}" "${{ github.sha }}" -- ':(top)azure_keyvault/*.yml' ':(top)azure_keyvault/*.yaml' | sed 's#^azure_keyvault/##')
+            else
+              mapfile -t changed_files < <(git ls-files '*.yml' '*.yaml')
+            fi
+          else
+            mapfile -t changed_files < <(ls -1 *.yml *.yaml 2>/dev/null || true)
+          fi
 
-  #         if [[ ${#changed_files[@]} -eq 0 ]]; then
-  #           echo "No changed .yml/.yaml files in azure_keyvault. Skipping."
-  #           exit 0
-  #         fi
+          if [[ ${#changed_files[@]} -eq 0 ]]; then
+            echo "No changed .yml/.yaml files in azure_keyvault. Skipping."
+            exit 0
+          fi
 
-  #         printf 'Changed files:\n%s\n' "${changed_files[@]}"
-  #         ./insert_users.sh "$ENTORNO" "${changed_files[@]}"
-  #         echo "END PRE"
+          printf 'Changed files:\n%s\n' "${changed_files[@]}"
+          ./insert_users.sh "$ENTORNO" "${changed_files[@]}"
+          echo "END PRE"
 
-  # # ─────────────────────────────
-  # # PRO
-  # # ─────────────────────────────
-  # keyvault-pro:
-  #   # needs: keyvault-pre
-  #   runs-on: ubuntu-latest
-  #     # group: eci-data-runners
-  #   environment: production
+  # ─────────────────────────────
+  # PRO
+  # ─────────────────────────────
+  keyvault-pro:
+    # needs: keyvault-pre
+    runs-on: ubuntu-latest
+      # group: eci-data-runners
+    environment: production
 
-  #   env:
-  #     ENTORNO: pro
-  #     SECRET_SUFFIX: MAIN
+    env:
+      ENTORNO: pro
+      SECRET_SUFFIX: MAIN
 
-  #   defaults:
-  #     run:
-  #       working-directory: azure_keyvault
+    defaults:
+      run:
+        working-directory: azure_keyvault
 
-  #   steps:
-  #     - name: Checkout repository
-  #       uses: actions/checkout@v6
-  #       with:
-  #         fetch-depth: 0
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
-  #     # - name: Azure Login
-  #     #   uses: azure/login@v3
-  #     #   with:
-  #     #     client-id: ${{ secrets[format('SF_AZURE_CLIENT_ID_ADMIN_{0}', env.SECRET_SUFFIX)] }}
-  #     #     tenant-id: ${{ secrets.SF_AZURE_TENANT_ID }}
-  #     #     subscription-id: ${{ secrets[format('SF_AZURE_SUBSCRIPTION_ID_{0}', env.SECRET_SUFFIX)] }}
+      # - name: Azure Login
+      #   uses: azure/login@v3
+      #   with:
+      #     client-id: ${{ secrets[format('SF_AZURE_CLIENT_ID_ADMIN_{0}', env.SECRET_SUFFIX)] }}
+      #     tenant-id: ${{ secrets.SF_AZURE_TENANT_ID }}
+      #     subscription-id: ${{ secrets[format('SF_AZURE_SUBSCRIPTION_ID_{0}', env.SECRET_SUFFIX)] }}
 
-  #     - name: Make script executable
-  #       run: chmod +x insert_users.sh
+      - name: Make script executable
+        run: chmod +x insert_users.sh
 
-  #     - name: Insert users in Key Vault (PRO)
-  #       run: |
-  #         echo "Start PRO"
-  #         if [[ "${{ github.event_name }}" == "push" ]]; then
-  #           BASE_SHA="${{ github.event.before }}"
-  #           if ! git cat-file -e "${BASE_SHA}^{commit}" 2>/dev/null; then
-  #             BASE_SHA="$(git rev-parse HEAD~1 2>/dev/null || true)"
-  #           fi
+      - name: Insert users in Key Vault (PRO)
+        run: |
+          echo "Start PRO"
+          if [[ "${{ github.event_name }}" == "push" ]]; then
+            BASE_SHA="${{ github.event.before }}"
+            if ! git cat-file -e "${BASE_SHA}^{commit}" 2>/dev/null; then
+              BASE_SHA="$(git rev-parse HEAD~1 2>/dev/null || true)"
+            fi
 
-  #           if [[ -n "${BASE_SHA}" ]]; then
-  #             mapfile -t changed_files < <(git diff --name-only "${BASE_SHA}" "${{ github.sha }}" -- ':(top)azure_keyvault/*.yml' ':(top)azure_keyvault/*.yaml' | sed 's#^azure_keyvault/##')
-  #           else
-  #             mapfile -t changed_files < <(git ls-files '*.yml' '*.yaml')
-  #           fi
-  #         else
-  #           mapfile -t changed_files < <(ls -1 *.yml *.yaml 2>/dev/null || true)
-  #         fi
+            if [[ -n "${BASE_SHA}" ]]; then
+              mapfile -t changed_files < <(git diff --name-only "${BASE_SHA}" "${{ github.sha }}" -- ':(top)azure_keyvault/*.yml' ':(top)azure_keyvault/*.yaml' | sed 's#^azure_keyvault/##')
+            else
+              mapfile -t changed_files < <(git ls-files '*.yml' '*.yaml')
+            fi
+          else
+            mapfile -t changed_files < <(ls -1 *.yml *.yaml 2>/dev/null || true)
+          fi
 
-  #         if [[ ${#changed_files[@]} -eq 0 ]]; then
-  #           echo "No changed .yml/.yaml files in azure_keyvault. Skipping."
-  #           exit 0
-  #         fi
+          if [[ ${#changed_files[@]} -eq 0 ]]; then
+            echo "No changed .yml/.yaml files in azure_keyvault. Skipping."
+            exit 0
+          fi
 
-  #         printf 'Changed files:\n%s\n' "${changed_files[@]}"
-  #         ./insert_users.sh "$ENTORNO" "${changed_files[@]}"
-  #         echo "END PRO"
+          printf 'Changed files:\n%s\n' "${changed_files[@]}"
+          ./insert_users.sh "$ENTORNO" "${changed_files[@]}"
+          echo "END PRO"

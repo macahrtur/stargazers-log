@@ -1,8 +1,8 @@
 #usuarios de servicio ADF SILVER
 userADFSILACTIVOSDIGITALES:
-  des: "SADF3SAD"
-  pre: "SADF2SAD"
-  pro: "SADF1SAD"
+  des: "SADF3SAD1"
+  pre: "SADF2SAD1"
+  pro: "SADF1SAD1"
 
 passADFSILACTIVOSDIGITALES:
   des: "1"
@@ -10,9 +10,9 @@ passADFSILACTIVOSDIGITALES:
   pro: "1"
 
 userADFSILCADENASUMINISTRO:
-  des: "SADF3SCS"
-  pre: "SADF2SCS"
-  pro: "SADF1SCS"
+  des: "SADF3SCS2"
+  pre: "SADF2SCS2"
+  pro: "SADF1SCS2"
 
 passADFSILCADENASUMINISTRO:
   des: "1"
@@ -20,9 +20,9 @@ passADFSILCADENASUMINISTRO:
   pro: "1"
 
 userADFSILCLIENTES:
-  des: "SADF3SCL"
-  pre: "SADF2SCL"
-  pro: "SADF1SCL"
+  des: "SADF3SC3"
+  pre: "SADF2SCL3"
+  pro: "SADF1SCL3"
 
 passADFSILCLIENTES:
   des: "1"
